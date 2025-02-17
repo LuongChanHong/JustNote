@@ -1,0 +1,8 @@
+gặp lỗi
+Hydration failed because the server rendered HTML didn't match the client
+đang sửa
+
+giải pháp dùng yarn
+https://github.com/vercel/next.js/discussions/61630
+
+có thể bỏ qua nếu không tìm thấy giải pháp
